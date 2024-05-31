@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+pot
+geomloss
+numba
+tqdm
