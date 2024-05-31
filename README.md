@@ -1,4 +1,6 @@
-## Efficient Prediction of Model Transferability in Semantic Segmentation Tasks
+## [Efficient Prediction of Model Transferability in Semantic Segmentation Tasks](http://yangli-feasibility.com/home/media/icip-23.pdf)
+
+
 
 ### 1. Preprare Environment 
 Install python libraries following the ``requirements.txt``
@@ -61,5 +63,5 @@ If you find our work interesting, please consider citing our work^_^.
 
 8. Joint PVL Detection and Manual Ability Classification Using Semi-supervised Multi-task Learning (MICCAI2021)
 
-9.Distributionally Robust Domain Generalization (ICLR Workshop 2021)
+9. Distributionally Robust Domain Generalization (ICLR Workshop 2021)
 ```
