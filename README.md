@@ -8,7 +8,9 @@ Install python libraries following the ``requirements.txt``
 ```
 pip install -r requirements.txt
 ```
-Then download extracted features from google cloud via link and unzip it in this project directory. As the features for all transfer task pairs are too large to share. Here we only select one task pair ``segnet-trained-on-BDD100K -> aachen (from Cityscapes)``as example.
+Then download extracted features from [Google Drive](https://drive.google.com/file/d/1aBoN-Sr43wUFjY6G00t68dAmMmxhZUUJ/view?usp=sharing) and unzip it in this project directory. 
+
+As the features for all transfer task pairs are too large to share. Here we only select one task pair ``segnet-trained-on-BDD100K -> aachen (from Cityscapes)``as example.
 
 The ``feature`` directory contains ``source_feature`` and ``target_feature``, which are extracted from the source model ``segnet-trained-on-BDD100K`` by feeding the source and target data into the neural network, respectively. Here we keep the feature of the final layer.
 
